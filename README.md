@@ -1,12 +1,5 @@
 # Plug TM (TMScript)
 
-[![Chrome Web Store Version]()]()
-[![Chrome Web Store Downloads]()]()
-[![Chrome Web Store Rating]()]()  
-[![Version]()
-[![Liscence]()
-[![Crowdin]()]()
-
 This script is intended for [Plug.dj](https://plug.dj) Inc.  
 Plug-It adds lots of customisation and useful features.  
 **Every feature can be disabled at any moment for maximum control.**  
@@ -43,7 +36,7 @@ Want to contribute ? You can help translate to your language, it's easy !
   2. Choose your language and start translating ! It's that easy !
 
 ## Contact
-You can join our [Discord server]() for live support or tweet [](), one of our Community Manager/ TN Helper will reply asap !
+You can join our [Discord server]() for live support or tweet [](), one of our Community Manager/ TM Helper will reply asap !
 
 ## Team
   - Founder/Dev
