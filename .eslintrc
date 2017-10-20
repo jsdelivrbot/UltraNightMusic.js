@@ -1,14 +1,1 @@
-{
-	"globals": {
-		"API": true,
-		"location": true,
-		"TM": true,
-		"$": true
-	},
-	"env": {
-		"browser": true
-	},
-	"rules": {
 
-	}
-}
