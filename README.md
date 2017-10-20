@@ -25,7 +25,7 @@ Plug-It adds lots of customisation and useful features.
 ### Manually:  
 Create a bookmark with this link:  
 ```
-javascript:(function(){$.getScript("");}());
+javascript:(function(){$.getScript("https://rawgit.com/TitanMusicDev/TitanMusic.js/master/TMScript.js");}());
 ```  
 Go in a room and click that bookmark !  
 
