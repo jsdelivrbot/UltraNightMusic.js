@@ -3,7 +3,7 @@ if (!window.UNM) {
 		var timestamp = new Date();
 		var g = d.createElement(t),
 			s = d.getElementsByTagName(t)[0];
-		g.src = '?v=' + timestamp.getTime();
+		g.src = 'https://rawgit.com/xUndisputed/UltraNightMusic.js/master/unm-loader.js?v=' + timestamp.getTime();
 		s.parentNode.insertBefore(g, s)
 		
 	}(document, 'script'));
